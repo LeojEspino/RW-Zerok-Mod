@@ -1,0 +1,7 @@
+[mod]
+title: Zero-k mod
+description: The Zero-k units!!!
+tags: Units
+minVersion: 1.15p11
+
+thumbnail: mod-thumbnail.png
